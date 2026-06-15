@@ -12,11 +12,15 @@ h2 {
   font-family: copperplate;
   color: black;
   font-size: 80px;
+  margin-bottom: 5px;
 }
 p {
   font-family: verdana;
   font-size: 20px;
   text-align: center;
+  margin-top: 5px;
+  margin-left: 150px;
+  margin-right: 150px;
 }
 .container {
   display: flex;
